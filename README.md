@@ -61,5 +61,5 @@
 **与其在碎片化信息中迷路，不如从这里开始，在社区的陪伴下系统进阶。**
 
 如果这本书对你有帮助，请点亮一颗 🌟 **Star** 支持我们！谢谢~
-<br> [![GitHub stars](https://img.shields.io/github/stars/XiaoHai67890/021-Ethereum?style=social)](https://github.com/XiaoHai67890/021-Ethereum/stargazers)
+<br> [![GitHub stars](https://img.shields.io/github/stars/XiaoHai67890/021Ethereum?style=social)](https://github.com/XiaoHai67890/021-Ethereum/stargazers)
 </div>
